@@ -1,4 +1,10 @@
 # todo_list
 This is a repo for todo list <br>
-This is feature1 branch
-this is feature1 branch
+Laravel Internship - Daily Tasks<br>
+
+## Completed Tasks
+| S.N | Task Title | Status |
+|---|---|---|
+| 1 | Git Installation & GitHub Setup | Completed |
+| 2 | Branching & Merging | Completed |
+| 3 | Commit Standards & README | Completed |
